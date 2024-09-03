@@ -1,5 +1,5 @@
 import React from 'react';
-import FibonacciChecker from './components/FibonacciChecker'; // Importa o componente criado
+import FibonacciChecker from './components/FibonacciChecker';
 
 function App() {
   return (
